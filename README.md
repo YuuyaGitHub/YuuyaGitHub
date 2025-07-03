@@ -1,24 +1,30 @@
-_This README is currently incomplete._
-
-# Welcome to Yuuya's GitHub 👋
-This is Yuuya's GitHub, where I distribute various things.
-
+# Welcome to Yuuya's GitHub👋
+![Logo](YuuyaLogo.png)
 # About Me
+My name is Yuuya and I'm a Japanese person who loves PCs, games, etc.
+<br>We distribute various things on this GitHub.
+
+If I were to introduce myself any further here, this would become a place for me to introduce myself, so I can't introduce myself any further here.
+<br>For a more detailed introduction, please see [Yuuya's Home Page](#my-links).
 
 # Favorite programming language
-* ⛏️C#
-* 🧰BAT
+_Below are my favorite programming languages, not the ones I'm good at._
+* ⛏️ C#
+* 🧱 C++
+* 🥛 Java
+* 🧰 BAT
+* 🪲 Python
 
 # Recent activities
 I haven't been writing C# or C++ programs lately. 🛌
 <br>To begin with, I don't think there's much activity here.
 
-# My Social Medias
+# My Links
 * 🎥 [YouTube](https://www.youtube.com/@YuuyaCh)
 * 🦢 [X (Formerly Twitter)](https://x.com/MainYuuya)
-* ✏️ [Scratch](https://scratch.mit.edu/users/Yuuya20061202/)
+* 🧠 [Scratch](https://scratch.mit.edu/users/Yuuya20061202/)
 * 🗨️ [Discord](https://discord.gg/6Ph2fr43sC)
-
+* 🌐 [My Home Page](https://yuuya20061202.wixsite.com/website)
 
 <!--
 **YuuyaGitHub/YuuyaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
