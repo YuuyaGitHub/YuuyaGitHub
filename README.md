@@ -1,5 +1,8 @@
 # Welcome to Yuuya's GitHub👋
-![Logo](YuuyaLogo.png)
+<p align="center">
+<img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!"/>
+</p>
+
 # About Me
 My name is Yuuya and I'm a Japanese person who loves PCs, games, etc.
 <br>We distribute various things on this GitHub.
@@ -25,6 +28,11 @@ I haven't been writing C# or C++ programs lately. 🛌
 * 🧠 [Scratch](https://scratch.mit.edu/users/Yuuya20061202/)
 * 🗨️ [Discord](https://discord.gg/6Ph2fr43sC)
 * 🌐 [My Home Page](https://yuuya20061202.wixsite.com/website)
+
+# Desktop
+Check out my latest desktop.
+<br>The image below may change without notice.
+<br><img src="MyDesktop.png" alt="My Desktop Image" title="Windows 11 Pro 24H2 Build 26100.4351"/>
 
 <!--
 **YuuyaGitHub/YuuyaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
