@@ -2,6 +2,7 @@
 <p align="center">
 <img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!"/>
 </p>
+<sup><sub><sup>The logo above is intentionally grey so that it is easy to see in both light and dark modes.</sub></sup></sub>
 
 # About Me
 My name is Yuuya and I'm a Japanese person who loves PCs, games, etc.
