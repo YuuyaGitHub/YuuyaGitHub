@@ -30,11 +30,6 @@ I haven't been writing C# or C++ programs lately. 🛌
 * 🗨️ [Discord](https://discord.gg/6Ph2fr43sC)
 * 🌐 [My Home Page](https://yuuya20061202.wixsite.com/website)
 
-# Desktop
-Check out my latest desktop.
-<br>The image below may change without notice.
-<br><img src="MyDesktop.png" alt="My Desktop Image" title="Windows 11 Pro 24H2 Build 26100.4351"/>
-
 <!--
 **YuuyaGitHub/YuuyaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
