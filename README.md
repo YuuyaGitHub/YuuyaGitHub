@@ -1,17 +1,17 @@
-# Welcome to Yuuya's GitHub👋
+# 👋Welcome to Yuuya's GitHub👋
 <p align="center">
 <img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!"/>
 </p>
 <sup><sub><sup>The logo above is intentionally grey so that it is easy to see in both light and dark modes.</sub></sup></sub>
 
-# About Me
+# 👨About Me
 My name is Yuuya and I'm a Japanese person who loves PCs, games, etc.
 <br>We distribute various things on this GitHub.
 
 If I were to introduce myself any further here, this would become a place for me to introduce myself, so I can't introduce myself any further here.
 <br>For a more detailed introduction, please see [Yuuya's Home Page](#my-links).
 
-# Favorite programming language
+# ✏️Favorite programming language
 _Below are my favorite programming languages, not the ones I'm good at._
 * ⛏️ C#
 * 🧱 C++
@@ -19,11 +19,11 @@ _Below are my favorite programming languages, not the ones I'm good at._
 * 🧰 BAT
 * 🪲 Python
 
-# Recent activities
+# 🕰️Recent activities
 I haven't been writing C# or C++ programs lately. 🛌
 <br>To begin with, I don't think there's much activity here.
 
-# My Links
+# 🔗My Links
 * 🎥 [YouTube](https://www.youtube.com/@YuuyaCh)
 * 🦢 [X (Formerly Twitter)](https://x.com/MainYuuya)
 * 🧠 [Scratch](https://scratch.mit.edu/users/Yuuya20061202/)
