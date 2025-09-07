@@ -1,4 +1,4 @@
-# 👋Welcome to Yuuya's GitHub👋
+# 👋Welcome to Yuuya's GitHub
 <p align="center">
 <img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!"/>
 </p>
