@@ -1,6 +1,6 @@
 # 👋Welcome to Yuuya's GitHub
 <p align="center">
-<img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!"/>
+<img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!" width="500"/>
 </p>
 <sup><sub><sup>The logo above is intentionally grey so that it is easy to see in both light and dark modes.</sub></sup></sub>
 
@@ -25,7 +25,7 @@ I haven't been writing C# or C++ programs lately. 🛌
 
 # 🔗My Links
 * 🎥 [YouTube](https://www.youtube.com/@YuuyaCh)
-* 🦢 [X (Formerly Twitter)](https://x.com/MainYuuya)
+* 🦢 [X (Formerly Twitter)](https://x.com/YuuyaMain_)
 * 🧠 [Scratch](https://scratch.mit.edu/users/Yuuya20061202/)
 * 🗨️ [Discord](https://discord.gg/6Ph2fr43sC)
 * 🌐 [My Home Page](https://yuuya20061202.wixsite.com/website)
