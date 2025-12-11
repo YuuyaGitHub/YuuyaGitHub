@@ -3,7 +3,10 @@
 <img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!" width="500"/>
 </p>
 <sup><sub><sup>The logo above is intentionally grey so that it is easy to see in both light and dark modes.</sub></sup></sub>
-
+  
+<details>
+<summary>Learn more</summary> 
+  
 # 👨About Me
 My name is Yuuya and I'm a Japanese person who loves PCs, games, etc.
 <br>We distribute various things on this GitHub.
@@ -29,7 +32,8 @@ I haven't been writing C# or C++ programs lately. 🛌
 * 🧠 [Scratch](https://scratch.mit.edu/users/Yuuya20061202/)
 * 🗨️ [Discord](https://discord.gg/6Ph2fr43sC)
 * 🌐 [My Home Page](https://yuuya20061202.wixsite.com/website)
-
+</details>
+  
 <!--
 **YuuyaGitHub/YuuyaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
