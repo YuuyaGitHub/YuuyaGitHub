@@ -2,8 +2,8 @@
 <p align="center">
 <img src="YuuyaGitHubLogo.png" alt="Yuuya GitHub Logo" title="Welcome to Yuuya's GitHub!" width="500"/>
 </p>
-<sup><sub><sup>The logo above is intentionally grey so that it is easy to see in both light and dark modes.</sub></sup></sub>
-  
+<sup><sub><sup><p align="center">The logo above is intentionally grey so that it is easy to see in both light and dark modes.</p></sub></sup></sub>
+<hr>
 <details>
 <summary>Learn more</summary> 
   
