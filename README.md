@@ -7,6 +7,8 @@
 
 I'm Yuuya, I'm particularly good at C#, and I'm Japanese.  
 I publish various programs here.
+
+I don't do much programming these days.
   
 <!--
 **YuuyaGitHub/YuuyaGitHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
